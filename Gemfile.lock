@@ -1,10 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    btree (0.0.0)
+    byebug (2.5.0)
+      columnize (~> 0.3.6)
+      debugger-linecache (~> 1.2.0)
+    columnize (0.3.6)
+    debugger-linecache (1.2.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  btree
+  byebug
