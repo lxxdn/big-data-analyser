@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require "./analyser.rb"
 
 if ARGV.length > 2
